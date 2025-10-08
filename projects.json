@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Chess Royale",
+    "desc": "Chess pieces with elixir costs; 1v1 and bot mode.",
+    "url": "https://github.com/YOUR_USERNAME/chess-royale",
+    "tags": ["React", "Game"]
+  },
+  {
+    "name": "NFL-Edge",
+    "desc": "Feature-engineered NFL win prob + point diff models.",
+    "url": "https://github.com/YOUR_USERNAME/nfl-edge",
+    "tags": ["Python", "ML"]
+  },
+  {
+    "name": "Tea for Men (WIP)",
+    "desc": "Safety-first dating app prototype (Flutter + Node).",
+    "url": "https://github.com/YOUR_USERNAME/tea-for-men",
+    "tags": ["Flutter", "Node", "Postgres"]
+  }
+]
